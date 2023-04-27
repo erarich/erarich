@@ -1,26 +1,24 @@
 <h1 align="center"> 
-	✅Bem vindo ao meu GitHub🚀
+	✅Welcome to my github profile🚀
 </h1>
 
-### 👦Sobre mim :seedling: : 
-> - 💻 Desenvolvedor Full-Stack: **React**, **Vue.js**, **Laravel**, **Django** e **Express.js**.
-> - 👋 Me chamo **Érick Santos**, tenho 20 anos.
-> - 📌 De Luís Eduardo Magalhães, Bahia, Brasil. Morando atualmente em Palmas, Tocantins.
-> - 🎓 Cursando Ciência da Computação na Universidade Federal do Tocantins. 
-> - 👨‍🏫 Sou membro da LAIA, Liga Acadêmica de Inteligência Artificial da UFT [laiauft](https://github.com/laiauft).
+### 👦About me :seedling: : 
+> - 💻 Full-Stack Developer: **React**, **Vue.js**, **Laravel**, **Django** and **Express.js**.
+> - 👋 My name is **Érick Santos** and I am 20 years old.
+> - 📌 I come from Luís Eduardo Magalhães, Bahia, Brazil, but I currently live in Palmas, Tocantins.
+> - 🎓 I am studying Computer Science at the Federal University of Tocantins (UFT). 
+> - 👨‍🏫 I am a member of LAIA, the Academic League of Artificial Intelligence at UFT [laiauft](https://github.com/laiauft).
 
-
-### ⚡ Linguagens de programação:
+### ⚡ Programming Languages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### ⚡ Outras linguagens:
+### ⚡ Others languages:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-
-### ⚡ Frameworks e Bibliotecas:
+### ⚡ Frameworks and Libraries:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
@@ -36,14 +34,17 @@
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![**STREAMLIT**](https://streamlit.io/)
 
+### 📦 Databases:
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 
-### 📦 Bancos de Dados:
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+### 🧰 Tools:
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-### 🧰 Ferramentas:
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-## ✅ Entre em contato! ✉️
+## ✅ Get in touch! ✉️
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/brunoluiss)](https://www.linkedin.com/in/erickmar%C3%A7al/)
  [![Gmail Badge](https://img.shields.io/badge/-ericksantos@mailfence.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ericksantos@mailfence.com)](mailto:ericksantos@mailfence.com)

@@ -3,11 +3,13 @@
 </h1>
 
 ### 👦About me :seedling: : 
-> - 💻 Full-Stack Developer: **React**, **Vue.js**, **Laravel**, **Django** and **Express.js**.
+> - 💻 Front-End Developer: **React**, **Vue.js** and **Angular**.
 > - 👋 My name is **Érick Santos** and I am 20 years old.
 > - 📌 I come from Luís Eduardo Magalhães, Bahia, Brazil, but I currently live in Palmas, Tocantins.
-> - 🎓 I am studying Computer Science at the Federal University of Tocantins (UFT). 
-> - 👨‍🏫 I am a member of LAIA, the Academic League of Artificial Intelligence at UFT [laiauft](https://github.com/laiauft).
+> - 🎓 I am studying Computer Science at the Federal University of Tocantins (UFT).
+> - 🎓 My topics of interest are Full-Stack Development, Data Analysis and AI Research/Engineering.
+> - 👨‍🏫 I am a member of iBots UFT, a simulated football team for the RoboCup 2D Soccer Simulation League [@ibotsuft](https://github.com/ibotsuft).
+> - 👋 My hobbies are football, japanese manga, korean series and some FPS games.
 
 ### ⚡ Programming Languages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)

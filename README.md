@@ -50,7 +50,7 @@
  [![Gmail Badge](https://img.shields.io/badge/-ericksantos@mailfence.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ericksantos@mailfence.com)](mailto:ericksantos@mailfence.com)
  [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?&logo=Instagram&logoColor=FFFFFF)](https://www.instagram.com/erickk.sntt/)
 
-<div align="center">
-	![erarich's Stats](https://github-readme-stats.vercel.app/api?username=erarich&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-	![erarich's Streak](https://github-readme-streak-stats.herokuapp.com/?user=erarich&theme=vue-dark&hide_border=true)
-</div>
+
+![erarich's Stats](https://github-readme-stats.vercel.app/api?username=erarich&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![erarich's Streak](https://github-readme-streak-stats.herokuapp.com/?user=erarich&theme=vue-dark&hide_border=true)
+

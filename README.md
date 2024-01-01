@@ -4,7 +4,7 @@
 
 ### 👦About me :seedling: : 
 > - 💻 Front-End Developer: **React**, **Vue.js** and **Angular**.
-> - 👋 My name is **Érick Santos** and I am 20 years old.
+> - 👋 My name is **Érick Santos** and I am 21 years old.
 > - 📌 I come from Luís Eduardo Magalhães, Bahia, Brazil, but I currently live in Palmas, Tocantins.
 > - 🎓 I am studying Computer Science at the Federal University of Tocantins (UFT).
 > - 🎓 My topics of interest are Full-Stack Development, Data Analysis and AI Research/Engineering.

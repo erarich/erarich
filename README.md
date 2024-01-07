@@ -17,7 +17,7 @@
 
 | Name | Framework | Languages | Description | Repository | Demo |
 |------|-----------|-----------|-------------|------------|------|
-|      |           |           |             |            |      |
+|React Sudokuhall|React|JavaScript|My first interaction with React, using React Router, Vite, Zustand and Styled Components.|[Link](https://github.com/erarich/react_sudokuhall)| [Link](https://sudokuhall.vercel.app/)     |
 |      |           |           |             |            |      |
 |      |           |           |             |            |      |
 

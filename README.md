@@ -19,7 +19,7 @@
 |------|-----------|-----------|-------------|------------|------|
 |React Sudokuhall|React|JavaScript|My first interaction with React, using React Router, Vite, Zustand and Styled Components.|[Link](https://github.com/erarich/react_sudokuhall)| [Link](https://sudokuhall.vercel.app/)     |
 |React Timer|React|JavaScript|A more simple React projet, with rendering dynamic list. Used some Material UI, Zustand and Vite.|[Link](https://github.com/erarich/react_timer)| [Link](https://stopwatches-erarich.vercel.app/)     |
-|      |           |           |             |            |      |
+|Mundo Matemático|Godot Engine|GDScript|2D Game for Sytem Project class.|[Link](https://github.com/erarich/mundo_matematico)| [Link](https://uiuqm.github.io/projeto_de_sistemas-test/)    |
 |      |           |           |             |            |      |
 |      |           |           |             |            |      |
 |      |           |           |             |            |      |

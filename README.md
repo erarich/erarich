@@ -22,7 +22,7 @@
 |Mundo Matemático|Godot Engine|GDScript|2D Game for System Project class.|[Link](https://github.com/erarich/mundo_matematico)| [Link](https://uiuqm.github.io/projeto_de_sistemas-test/)    |
 |Mundo Matemático Landing Page|Vue|JavaScript|Landing Page for Mundo Matemático project.|[Link](https://github.com/erarich/mundo_matematico_site)| [Link](https://mundo-matematico.vercel.app/)    |
 |Recomendo Livros|Streamlit|Python|An simple that recomends books using TF-IDF algorithm.|[Link](https://github.com/erarich/recomendolivros)| [Link](https://recomendolivros.streamlit.app)    |
-|      |           |           |             |            |      |
+|Calculator (Front-End)|Vue|JavaScript|Simple calculator with integration with [our server](https://github.com/Calculator-DWM/calculator_express) for WebMobile Development class.|[Link](https://github.com/Calculator-DWM/calculator_vue)| [Link](https://calculator-vue-zeta.vercel.app/)    |
 |      |           |           |             |            |      |
 |      |           |           |             |            |      |
 |      |           |           |             |            |      |

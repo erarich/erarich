@@ -25,7 +25,7 @@
 |Calculator (Front-End)|Vue|JavaScript|Simple calculator with integration with [our server](https://github.com/Calculator-DWM/calculator_express) for WebMobile Development class.|[Link](https://github.com/Calculator-DWM/calculator_vue)| [Link](https://calculator-vue-zeta.vercel.app/)    |
 |Note2Note (Front-End)|React|Javascript|Note app for WebMobile Development class.|[Link](https://github.com/dwm-2023-2/diario_online_frontend)| [Link](http://note2note.freedynamicdns.net/)    
 |Note2Note (Back-End)|Express (Node.js)|Javascript|Note app API for WebMobile Development class.|[Link](https://github.com/dwm-2023-2/note2note_backend)| [Link](http://note2note.freedynamicdns.net/)    
-|My portfolio|Angular|TypeScript|My portfolio website.|[Link](https://github.com/erarich/portfolio)|TODO|
+|My portfolio|Angular|TypeScript|My portfolio website.|[Link](https://github.com/erarich/portfolio)|[Link](https://erarich.vercel.app/)|
 
 
 <!--- |      |           |           |             |            |      | --->

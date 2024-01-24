@@ -9,7 +9,6 @@
 > - 🎓 I am studying Computer Science at the Federal University of Tocantins (UFT).
 > - 🎓 My topics of interest are Full-Stack Development, Data Analysis and AI Research/Engineering.
 > - 👨‍🏫 I am a member of iBots UFT, a simulated football team for the RoboCup 2D Soccer Simulation League [@ibotsuft](https://github.com/ibotsuft).
-> - 👋 My hobbies are football, japanese manga, korean series and some FPS games.
 
 <h1 align="center"> 
 	My Projects
